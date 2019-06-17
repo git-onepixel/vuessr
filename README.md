@@ -1,5 +1,5 @@
 
-# vue-ssr-demo
+# vuessr
 The ssr solution based on vue2 with vue-router and vuex. 
 
 ``` bash
